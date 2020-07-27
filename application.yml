@@ -14,4 +14,4 @@ eureka:
     service-url:
       defaultZone: http://admin:${jhipster.registry.password}@localhost:8761/eureka/
 
-greeting: "greeting from default"
+greeting: "greeting from default inside lab config"
